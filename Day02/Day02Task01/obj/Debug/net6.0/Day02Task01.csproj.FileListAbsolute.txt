@@ -1,0 +1,15 @@
+D:\LABS\16- C#\Day02\Day02Task01\bin\Debug\net6.0\Day02Task01.exe
+D:\LABS\16- C#\Day02\Day02Task01\bin\Debug\net6.0\Day02Task01.deps.json
+D:\LABS\16- C#\Day02\Day02Task01\bin\Debug\net6.0\Day02Task01.runtimeconfig.json
+D:\LABS\16- C#\Day02\Day02Task01\bin\Debug\net6.0\Day02Task01.dll
+D:\LABS\16- C#\Day02\Day02Task01\bin\Debug\net6.0\ref\Day02Task01.dll
+D:\LABS\16- C#\Day02\Day02Task01\bin\Debug\net6.0\Day02Task01.pdb
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.csproj.AssemblyReference.cache
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.AssemblyInfoInputs.cache
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.AssemblyInfo.cs
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.csproj.CoreCompileInputs.cache
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.dll
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\ref\Day02Task01.dll
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.pdb
+D:\LABS\16- C#\Day02\Day02Task01\obj\Debug\net6.0\Day02Task01.genruntimeconfig.cache

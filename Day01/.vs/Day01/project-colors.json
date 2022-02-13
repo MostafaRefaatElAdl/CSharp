@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecbd841a-d407-449d-b202-cd0f4d746164": {
+      "ProjectGuid": "ecbd841a-d407-449d-b202-cd0f4d746164",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "dea752ab-7f81-48ca-8d06-f87ca6b6a8fd": {
+      "ProjectGuid": "dea752ab-7f81-48ca-8d06-f87ca6b6a8fd",
+      "DisplayName": "desktop app",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

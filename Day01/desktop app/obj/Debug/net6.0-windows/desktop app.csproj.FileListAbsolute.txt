@@ -1,0 +1,17 @@
+D:\LABS\16- C#\Day01\desktop app\bin\Debug\net6.0-windows\desktop app.exe
+D:\LABS\16- C#\Day01\desktop app\bin\Debug\net6.0-windows\desktop app.deps.json
+D:\LABS\16- C#\Day01\desktop app\bin\Debug\net6.0-windows\desktop app.runtimeconfig.json
+D:\LABS\16- C#\Day01\desktop app\bin\Debug\net6.0-windows\desktop app.dll
+D:\LABS\16- C#\Day01\desktop app\bin\Debug\net6.0-windows\ref\desktop app.dll
+D:\LABS\16- C#\Day01\desktop app\bin\Debug\net6.0-windows\desktop app.pdb
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.csproj.AssemblyReference.cache
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop_app.Form1.resources
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.csproj.GenerateResource.cache
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.AssemblyInfoInputs.cache
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.AssemblyInfo.cs
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.csproj.CoreCompileInputs.cache
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.dll
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\ref\desktop app.dll
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.pdb
+D:\LABS\16- C#\Day01\desktop app\obj\Debug\net6.0-windows\desktop app.genruntimeconfig.cache

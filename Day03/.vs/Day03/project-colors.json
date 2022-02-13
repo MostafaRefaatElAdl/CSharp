@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4dfc2857-97d3-4c8a-b750-5fe2985e6ba0": {
+      "ProjectGuid": "4dfc2857-97d3-4c8a-b750-5fe2985e6ba0",
+      "DisplayName": "Day03Task01",
+      "ColorIndex": 0
+    },
+    "71fd4d5a-fd75-4d26-96bc-037df4336f05": {
+      "ProjectGuid": "71fd4d5a-fd75-4d26-96bc-037df4336f05",
+      "DisplayName": "EmployeeSearch",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

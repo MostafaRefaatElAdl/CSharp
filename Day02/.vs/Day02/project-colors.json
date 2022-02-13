@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd1d68f6-2a2c-4e6b-9be9-5f5deb5791e0": {
+      "ProjectGuid": "fd1d68f6-2a2c-4e6b-9be9-5f5deb5791e0",
+      "DisplayName": "Day02Task01",
+      "ColorIndex": 0
+    },
+    "d3528490-8ff0-40d9-b133-69ddde2028ed": {
+      "ProjectGuid": "d3528490-8ff0-40d9-b133-69ddde2028ed",
+      "DisplayName": "Day02Task01",
+      "ColorIndex": 1
+    },
+    "f099d8cc-1034-4bf9-83ac-6f14a73a639d": {
+      "ProjectGuid": "f099d8cc-1034-4bf9-83ac-6f14a73a639d",
+      "DisplayName": "Day02Task02",
+      "ColorIndex": 2
+    },
+    "bc0be7de-cca8-45ab-90a2-1eca6a42c9f6": {
+      "ProjectGuid": "bc0be7de-cca8-45ab-90a2-1eca6a42c9f6",
+      "DisplayName": "Day02Task03",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
